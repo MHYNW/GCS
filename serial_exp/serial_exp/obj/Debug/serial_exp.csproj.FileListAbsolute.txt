@@ -1,0 +1,10 @@
+C:\Users\임현우\Desktop\GCS_MH\serial_exp\serial_exp\bin\Debug\serial_exp.exe.config
+C:\Users\임현우\Desktop\GCS_MH\serial_exp\serial_exp\bin\Debug\serial_exp.exe
+C:\Users\임현우\Desktop\GCS_MH\serial_exp\serial_exp\bin\Debug\serial_exp.pdb
+C:\Users\임현우\Desktop\GCS_MH\serial_exp\serial_exp\obj\Debug\serial_exp.csprojAssemblyReference.cache
+C:\Users\임현우\Desktop\GCS_MH\serial_exp\serial_exp\obj\Debug\serial_exp.Form1.resources
+C:\Users\임현우\Desktop\GCS_MH\serial_exp\serial_exp\obj\Debug\serial_exp.Properties.Resources.resources
+C:\Users\임현우\Desktop\GCS_MH\serial_exp\serial_exp\obj\Debug\serial_exp.csproj.GenerateResource.cache
+C:\Users\임현우\Desktop\GCS_MH\serial_exp\serial_exp\obj\Debug\serial_exp.csproj.CoreCompileInputs.cache
+C:\Users\임현우\Desktop\GCS_MH\serial_exp\serial_exp\obj\Debug\serial_exp.exe
+C:\Users\임현우\Desktop\GCS_MH\serial_exp\serial_exp\obj\Debug\serial_exp.pdb
